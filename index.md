@@ -1,9 +1,40 @@
-# Neuron Template
+202103011946
+Tags: #
+__
+#
 
-You are viewing a template site, generated from [neuron-template](https://github.com/srid/neuron-template) and published by [neuron](https://neuron.zettel.page/). [GitHub Pages](https://pages.github.com/) is used to automatically publish this site every time the underlying Git repository gets updated.
+__
+### Zero-Links
+-
 
-Get started by reading [[README]]#.
+__
+### Links
+- 
 
-Other pages on this zettelkasten:
+ 
+ # My Zettelkasten
 
-- [[faq]]#
+## Add a new note
+ - `Ctrl - O` Title (check if it is already exists)
+ - Apply a template `note`  
+ - Add a content type tags. Add a status tags.  
+ - Main note topics marked with `Zero Links`  
+ - When add new `zero link` and press `alt + enter` 
+
+## Principals 
+ -  All notes go to the same folder  
+ -  `Zero links` pages open in local graph mode  
+ -  Sometimes open random page and think about connections  
+ 
+ ## Search 
+ - Look through catalogs 
+
+## Folders 
+- `Base` - folder for all notes  
+- `Files` - folder for attachments   
+-  `Templates` - folder for notes templates  
+- `Daily` - folder for daily notes  
+
+## Status Tags
+- #z - zettelkasten note
+-  

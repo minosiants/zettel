@@ -1,0 +1,129 @@
+{
+  "main": {
+    "id": "744fb89c9acca953",
+    "type": "split",
+    "children": [
+      {
+        "id": "91ee504909709e3e",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Base/How to take smart notes.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "82042b6c2a6aa34a",
+    "type": "split",
+    "children": [
+      {
+        "id": "0e28ccc9e1f94de0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1504d970b43ad396",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "eb5304fcf1f792ae",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#z",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6682e47313355de6",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 409
+  },
+  "right": {
+    "id": "dd1c56d87cbff5a9",
+    "type": "split",
+    "children": [
+      {
+        "id": "365323a4a11090e8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8f4c4d1f8cc86ba1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Base/How to take smart notes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e5242f476a19207d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f9d2a444afec8a00",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Base/How to take smart notes.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "Base/smart-notes.md",
+    "index.md",
+    "Base/00-zettel.md",
+    "Base/How to take smart notes.md",
+    "Daily/2021-03-01.md",
+    "Daily/2021-02-28.md",
+    "Daily/2021-02-27.md",
+    "Daily/2021-02-26.md",
+    "Templates/Card.md",
+    "Base/My note.md"
+  ]
+}
