@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/How to take smart notes.md",
-            "mode": "preview"
+            "file": "Base/single command scala setup.md",
+            "mode": "source"
           }
         }
       }
@@ -77,12 +77,12 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/How to take smart notes.md",
+                "file": "Base/single command scala setup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/How to take smart notes.md"
+                "file": "Base/single command scala setup.md"
               }
             }
           }
@@ -111,19 +111,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "lastOpenFiles": [
-    "Base/smart-notes.md",
-    "index.md",
-    "Base/00-zettel.md",
+    "Base/single command scala setup.md",
+    "Templates/Untitled.md",
     "Base/How to take smart notes.md",
-    "Daily/2021-03-01.md",
-    "Daily/2021-02-28.md",
-    "Daily/2021-02-27.md",
-    "Daily/2021-02-26.md",
-    "Templates/Card.md",
-    "Base/My note.md"
+    "Base/scala.md",
+    "Base/coursier.md",
+    "Daily/2021-03-05.md",
+    "Base/racket.md",
+    "Daily/2021-03-03.md",
+    "Base/02-fp.md",
+    "Base/00-zettel.md"
   ]
 }
