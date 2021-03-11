@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "91ee504909709e3e",
+        "id": "176531af3509c5f2",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/single command scala setup.md",
+            "file": "Base/vim.md",
             "mode": "source"
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#z",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/single command scala setup.md",
+                "file": "Base/vim.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/single command scala setup.md"
+                "file": "Base/vim.md"
               }
             }
           }
@@ -114,15 +114,15 @@
     "width": 300
   },
   "lastOpenFiles": [
-    "Base/single command scala setup.md",
-    "Templates/Untitled.md",
-    "Base/How to take smart notes.md",
-    "Base/scala.md",
-    "Base/coursier.md",
-    "Daily/2021-03-05.md",
-    "Base/racket.md",
-    "Daily/2021-03-03.md",
-    "Base/02-fp.md",
-    "Base/00-zettel.md"
+    "Base/vim.md",
+    "Base/vim-navigation.md",
+    "Base/nvim.md",
+    "Daily/2021-02-28.md",
+    "Daily/2021-02-26.md",
+    "Base/00-language.md",
+    "Base/00-zettel.md",
+    "Daily/2021-03-11.md",
+    "Daily/2021-03-10.md",
+    "index.md"
   ]
 }
