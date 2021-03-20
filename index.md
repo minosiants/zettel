@@ -37,4 +37,10 @@ __
 
 ## Status Tags
 - #z - zettelkasten note
+
+
+---
+
+-  [[books-to-get|Books to get]]
+- [[study-plan|Study plan]]
 -  
