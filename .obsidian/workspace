@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "3e92dde5163c1409",
+        "id": "dafe89f2eb5e1ee2",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
             "file": "Base/System design interview.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "vim",
+                "query": "tag:#B08B3FWYBX",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -115,14 +115,14 @@
   },
   "lastOpenFiles": [
     "Base/System design interview.md",
-    "Base/scaling from zero to millions of users.md",
-    "Base/March 2021.md",
-    "Base/study-plan.md",
+    "Base/design a rate limiter.md",
+    "Daily/2021-03-22.md",
+    "Daily/2021-03-21.md",
+    "Daily/2021-03-03.md",
+    "Daily/2021-03-11.md",
     "index.md",
-    "Base/books-to-get.md",
-    "Base/scalling from zero to millions of users.md",
-    "Base/algebra-driven-design.md",
-    "Base/00-fp.md",
-    "Base/00-books.md"
+    "Base/framework for system design interviews.md",
+    "Base/back-of-the-envelop estimation.md",
+    "Base/framework for system designe interviews.md"
   ]
 }
