@@ -11,15 +11,19 @@ by  [Alex Xu](https://medium.com/@xalex)
 
 - [[scaling from zero to millions of users]]
 - [[back-of-the-envelop estimation]]
-- [[design a rate limiter]]
+- [[desin a rate limiter]]  
+- [[desighn key-value store]]
+
+
 ## Interesting to dive dipper  
  - URL shortener hash functions ?  (ch 3) 
  - time management is important  
+ 
 ## Reference materials 
 - [system design primer](https://github.com/donnemartin/system-design-primer)  
 -[interactive coding challenges](https://github.com/donnemartin/interactive-coding-challenges)  
 - [Latency Numbers Every Programmer Should Know](https://colin-scott.github.io/personal_website/research/interactive_latency.html)  
-- 
+- [Consistent hashing](https://en.wikipedia.org/wiki/Consistent_hashing)   
 __
 ### Zero-Links
 - [[00-books]]

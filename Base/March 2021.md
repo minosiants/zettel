@@ -4,7 +4,7 @@ __
 # Studying  in March
 
 
-### [The bitcoin standard](https://www.goodreads.com/book/show/36448501-the-bitcoin-standard)   
+- [x] ### [The bitcoin standard](https://www.goodreads.com/book/show/36448501-the-bitcoin-standard)   
 by SAIFEDEAN AMMOUS  
 
 ### [Cracking of the codding interview](https://www.goodreads.com/book/show/29350585-cracking-the-coding-interview)  
@@ -18,7 +18,7 @@ by SAIFEDEAN AMMOUS
 ### [Mastering vim quickly](https://www.goodreads.com/book/show/41829148-mastering-vim-quickly)  
  - read a couple of pages every day  
 
-### [Haskell Programming From First Principles](https://www.goodreads.com/book/show/25587599-haskell-programming-from-first-principles)  
+- [x] ### [Haskell Programming From First Principles](https://www.goodreads.com/book/show/25587599-haskell-programming-from-first-principles)  
 - finish the book (Last chapter)
 
 ### [Typing practice](https://10fastfingers.com/)  
