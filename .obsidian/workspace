@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "dafe89f2eb5e1ee2",
+        "id": "0b098a53ce076f43",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/desighn key-value store.md",
-            "mode": "preview"
+            "file": "Base/from zero to one notes on startups.md",
+            "mode": "source"
           }
         }
       }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/desighn key-value store.md",
+                "file": "Base/from zero to one notes on startups.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/desighn key-value store.md"
+                "file": "Base/from zero to one notes on startups.md"
               }
             }
           }
@@ -114,15 +114,15 @@
     "width": 300
   },
   "lastOpenFiles": [
-    "Base/desighn key-value store.md",
-    "Base/System design interview.md",
-    "Base/scaling from zero to millions of users.md",
-    "Base/algebra-driven-design.md",
-    "Base/algebra-driven design Book.md",
+    "Base/from zero to one notes on startups.md",
+    "Base/00-startup.md",
     "Base/00-books.md",
-    "Base/books-to-get.md",
-    "Base/parallel and concurrent programming in haskell.md",
-    "Base/00-courses.md",
-    "Base/haskell-fp-course.md"
+    "Base/design id gen in distributed system.md",
+    "Base/back-of-the-envelop estimation.md",
+    "Base/algebra-driven-design.md",
+    "Base/System design interview.md",
+    "Base/broupBy + sortBy.md",
+    "Base/Untitled.md",
+    "Base/haskell.md"
   ]
 }

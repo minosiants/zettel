@@ -11,9 +11,9 @@ by  [Alex Xu](https://medium.com/@xalex)
 
 - [[scaling from zero to millions of users]]
 - [[back-of-the-envelop estimation]]
-- [[desin a rate limiter]]  
-- [[desighn key-value store]]
-
+- [[design a rate limiter]]  
+- [[design key-value store]]
+- [[design id gen in distributed system]]
 
 ## Interesting to dive dipper  
  - URL shortener hash functions ?  (ch 3) 
