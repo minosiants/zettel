@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "0b098a53ce076f43",
+        "id": "efeaa4d2d5ef33ab",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/from zero to one notes on startups.md",
+            "file": "Base/petrov-vodkin.md",
             "mode": "source"
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/from zero to one notes on startups.md",
+                "file": "Base/petrov-vodkin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/from zero to one notes on startups.md"
+                "file": "Base/petrov-vodkin.md"
               }
             }
           }
@@ -114,15 +114,15 @@
     "width": 300
   },
   "lastOpenFiles": [
-    "Base/from zero to one notes on startups.md",
-    "Base/00-startup.md",
-    "Base/00-books.md",
-    "Base/design id gen in distributed system.md",
-    "Base/back-of-the-envelop estimation.md",
-    "Base/algebra-driven-design.md",
-    "Base/System design interview.md",
-    "Base/broupBy + sortBy.md",
-    "Base/Untitled.md",
-    "Base/haskell.md"
+    "Base/petrov-vodkin.md",
+    "Base/kandinsky.md",
+    "Base/itten.md",
+    "Base/bammes.md",
+    "Base/00-artists.md",
+    "Base/fechin.md",
+    "Daily/2021-03-11.md",
+    "Base/scaling from zero to millions of users.md",
+    "Base/Durer.md",
+    "Base/holbain.md"
   ]
 }
