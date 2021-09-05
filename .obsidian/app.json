@@ -1,0 +1,10 @@
+{
+  "spellcheck": true,
+  "vimMode": true,
+  "enabledPlugins": [],
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Base",
+  "attachmentFolderPath": "Files",
+  "promptDelete": false
+}

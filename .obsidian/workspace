@@ -4,13 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "efeaa4d2d5ef33ab",
+        "id": "64800be573eeb168",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/petrov-vodkin.md",
+            "file": "Base/zipper.md",
             "mode": "source"
           }
         }
@@ -40,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#B08B3FWYBX",
+                "query": "tag:#haskell",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,7 +56,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -77,10 +77,12 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/petrov-vodkin.md",
+                "file": "Base/zipper.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -103,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/petrov-vodkin.md"
+                "file": "Base/zipper.md"
               }
             }
           }
@@ -113,16 +115,17 @@
     "direction": "horizontal",
     "width": 300
   },
+  "active": "64800be573eeb168",
   "lastOpenFiles": [
-    "Base/petrov-vodkin.md",
-    "Base/kandinsky.md",
-    "Base/itten.md",
-    "Base/bammes.md",
-    "Base/00-artists.md",
-    "Base/fechin.md",
-    "Daily/2021-03-11.md",
-    "Base/scaling from zero to millions of users.md",
-    "Base/Durer.md",
-    "Base/holbain.md"
+    "Base/zipper.md",
+    "Daily/2021-09-04.md",
+    "Base/haskell-fp-course.md",
+    "Base/parallel and concurrent programming in haskell.md",
+    "Base/parametric polymorphism .md",
+    "Base/What I Wish I Knew When Learning Haskell.md",
+    "Daily/2021-03-10.md",
+    "Daily/2021-03-13.md",
+    "Daily/2021-03-24.md",
+    "Daily/2021-03-31.md"
   ]
 }
