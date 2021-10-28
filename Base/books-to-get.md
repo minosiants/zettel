@@ -10,7 +10,7 @@ __
  - [x] [ System Design Interview](https://www.amazon.com/gp/product/B08CMF2CQF)  
  - [x] [computer science distilled ](https://www.amazon.com/gp/product/0997316020/)  
  - [x] [Web Scalability for Startup Engineers](https://www.amazon.com/gp/product/0071843655)  
- -     
+ -  [] [Дом Гуччи](https://www.chitai-gorod.ru/catalog/book/2876213/)  
 __
 ### Zero-Links
 - [[00-books]]  
