@@ -33,3 +33,6 @@
 -  [[books-to-get|Books to get]]
 - [[study-plan|Study plan]]
 - [[00-java]] 
+
+## Books 
+- [[linux command line - complete introduction]]  
