@@ -33,6 +33,7 @@
 -  [[books-to-get|Books to get]]
 - [[study-plan|Study plan]]
 - [[00-java]] 
-
+- [[programming practical resources]]
+- 
 ## Books 
 - [[linux command line - complete introduction]]  

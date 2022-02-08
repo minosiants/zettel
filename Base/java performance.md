@@ -14,6 +14,10 @@ warm up period (java code is interpreted so it becomes after several run)
 
 - [Faban](https://github.com/akara/faban) A framework for developing workload drivers and automation of performance tests  
 - [[Java Flight Recorder]]
+- [Java Mission Control](https://jdk.java.net/jmc/8/)
+
+- `weak reference`  Hey, as long as someone else is interested in this object, let me know where it is, but if they no longer need it, throw it away and I will re-create it myself.
+- `soft reference` Hey, try to keep this around as long as there is enough memory and as long as it seems that someone is occasionally accessing it.
 __
 ### Zero-Links
 - [[00-books]]
