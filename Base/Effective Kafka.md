@@ -33,6 +33,7 @@ consist of
 __
 ### Zero-Links
 - [[00-books]]
+- [[00-kafka]]
 
 __
 ### Links
