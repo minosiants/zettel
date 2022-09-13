@@ -10,3 +10,9 @@
 `jstat` - information aout GC and class-loading acitivies.
 `jvisualvm`  - GUI tool to  monitor a JVM
 
+[`jfr`](https://docs.oracle.com/javacomponents/jmc-5-4/jfr-runtime-guide/about.htm#JFRUH170) - Java Flight Recorder  
+
+`jmc` - Java Mission Control  
+
+
+
