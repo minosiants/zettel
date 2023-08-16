@@ -1,3 +1,6 @@
 [Textblob](https://textblob.readthedocs.io/en/dev/)
 [word_cloud](https://github.com/amueller/word_cloud)
 [spaCy](https://github.com/explosion/spaCy)
+[gensim](https://github.com/RaRe-Technologies/gensim)
+[bcrypt](https://github.com/pyca/bcrypt)
+[tweepy](https://github.com/tweepy/tweepy)
