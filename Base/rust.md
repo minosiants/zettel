@@ -3,6 +3,13 @@ Tags: #rust
 __
 # Rust
 ## Concepts
+
+
+### Copy / Clone
+Drop - if needs something to be done when val goes out of scope
+Copy - stack only data (shallow copy). Object should be sized. Rust will not let us annotated type with Copy if it implements Drop ()
+Clone - stack data (deep copy)
+
 ### Ownership 
 
 ```rust
@@ -61,6 +68,7 @@ let data = Box:new([0; 1024*1024]);
 println(data.len());
 ```
 
+### [[Idiomatic rust]]
 
 ### Resources
 - ### [Reference](https://doc.rust-lang.org/reference/introduction.html)
@@ -68,6 +76,7 @@ println(data.len());
 - [build-your-own-jira-with-rust](https://github.com/LukeMathWalker/build-your-own-jira-with-rust)
 - [idiomatic rust](https://github.com/mre/idiomatic-rust) 
 - [google course](https://github.com/google/comprehensive-rust) 
+- [rust training from ferrous-systems](https://rust-training.ferrous-systems.com/latest/slides/)
 - [elegant api in rust](https://deterministic.space/elegant-apis-in-rust.html)
 - https://rust-lang.github.io/async-book/
 - https://github.com/tokio-rs/mini-redis/
@@ -75,9 +84,20 @@ println(data.len());
 * [Achieving warp speed with Rust](https://gist.github.com/jFransham/369a86eff00e5f280ed25121454acec1)
 * [awesome-rust](https://github.com/rust-unofficial/awesome-rust)
 * [design patterns](https://rust-unofficial.github.io/patterns/)
-
-
+- [testing-proc-macros](https://ferrous-systems.com/blog/testing-proc-macros/) 
  - [auto-currying_rust_functions](https://oppi.li/posts/auto-currying_rust_functions/)
+ - [nom](https://tfpk.github.io/nominomicon/introduction.html)
+
+### Libs
+[cargo-generate](https://github.com/cargo-generate/cargo-generate)  - cargo, make me a project
+
+### Libs for macro
+[cargo-expand](https://github.com/dtolnay/cargo-expand)  - subcommand to show result of macro expansion
+[syn](https://github.com/dtolnay/syn) - parser for rust source code
+[quote](https://github.com/dtolnay/quote) - rust quasi-quoting
+[trybuild](https://github.com/dtolnay/trybuild) test harness for ui tests of compiler diagnostics
+
+https://dev.to/balapriya/abstract-syntax-tree-ast-explained-in-plain-english-1h38
 ### Zero-Links`
 - [[00-language]]
 
