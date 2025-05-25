@@ -69,6 +69,7 @@ println(data.len());
 ```
 
 ### [[Idiomatic rust]]
+### [[rust-lifetime]]
 
 ### Resources
 - ### [Reference](https://doc.rust-lang.org/reference/introduction.html)
@@ -87,7 +88,7 @@ println(data.len());
 - [testing-proc-macros](https://ferrous-systems.com/blog/testing-proc-macros/) 
  - [auto-currying_rust_functions](https://oppi.li/posts/auto-currying_rust_functions/)
  - [nom](https://tfpk.github.io/nominomicon/introduction.html)
-
+- [rust blog](https://github.com/pretzelhammer/rust-blog/tree/master)
 ### Libs
 [cargo-generate](https://github.com/cargo-generate/cargo-generate)  - cargo, make me a project
 

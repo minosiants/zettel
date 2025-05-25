@@ -18,6 +18,8 @@ Books he mentioned
 [[Art and Visual Perception]]  by [[Rudolf Arnheim]]
 [[The Painters Secret Geometry]] by [[Charles Bouleau]]
 [[Basic Principles of Design]] by [[Manfred Maier]]
+[[The Natural Way To Draw]] by [[Kimon Nicolaides]]
+
 
 
 
