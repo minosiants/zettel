@@ -73,6 +73,7 @@ println(data.len());
 
 ### Resources
 - ### [Reference](https://doc.rust-lang.org/reference/introduction.html)
+- [Rust RFCs](https://rust-lang.github.io/rfcs/introduction.html)
 * ### [cheatsheet](https://upsuper.github.io/rust-cheatsheet/?dark,single,large)
 - [build-your-own-jira-with-rust](https://github.com/LukeMathWalker/build-your-own-jira-with-rust)
 - [idiomatic rust](https://github.com/mre/idiomatic-rust) 
@@ -89,8 +90,9 @@ println(data.len());
  - [auto-currying_rust_functions](https://oppi.li/posts/auto-currying_rust_functions/)
  - [nom](https://tfpk.github.io/nominomicon/introduction.html)
 - [rust blog](https://github.com/pretzelhammer/rust-blog/tree/master)
+- [A community guide to the Rust ecosystem](https://github.com/nicoburns/blessed-rs)
 ### Libs
-[cargo-generate](https://github.com/cargo-generate/cargo-generate)  - cargo, make me a project
+[cargo-generate](https://github.com/cargo-generate/cargo-generate)  -  cargo, make me a project
 
 ### Libs for macro
 [cargo-expand](https://github.com/dtolnay/cargo-expand)  - subcommand to show result of macro expansion
@@ -99,6 +101,13 @@ println(data.len());
 [trybuild](https://github.com/dtolnay/trybuild) test harness for ui tests of compiler diagnostics
 
 https://dev.to/balapriya/abstract-syntax-tree-ast-explained-in-plain-english-1h38
+
+[Async Rust with Tokio I/O Streams: Backpressure, Concurrency, and Ergonomics](https://biriukov.dev/docs/async-rust-tokio-io/1-async-rust-with-tokio-io-streams-backpressure-concurrency-and-ergonomics/)
+
+https://ryhl.io/blog/actors-with-tokio/
+
+https://corrode.dev/blog/ -? check
+
 ### Zero-Links`
 - [[00-language]]
 

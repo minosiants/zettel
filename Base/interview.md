@@ -1,9 +1,15 @@
 Tags: #interview 
 __
+## [[Interview Preparation Grid]]
+
 # List of interview
 
+
  
- 
+## 2025
+
+## 2021
+
  ### четверг 09.09 10:00 Grid Dynamics
  Полина - +7 921 981-29-63
 
@@ -153,7 +159,7 @@ https://us02web.zoom.us/j/86709721043?pwd=S2hGN0VJRTJZTnFWZGZJMWJ4MiszUT09
 
 __
 ### Zero-Links
--
+- [[00-interview]]
 
 __
 ### Links
